@@ -125,7 +125,7 @@ export default function Glaukopis() {
 
         
         ">Live site</a>
-        <a href="https://github.com/Basmala-hates-this/Glaukopis" className="no-underline text-success
+        <a href="https://github.com/basmala-laouari/Glaukopis" className="no-underline text-success
         hover:text-text-main
   transition-all px-6 py-4 rounded-md 
    translate-y-0 hover:translate-y-1

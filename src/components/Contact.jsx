@@ -13,7 +13,7 @@ export default function Contact() {
    hover:shadow-[0_8px_20px_var(--color-accent-neon)]
    focus:outline-none focus:ring-2 focus:ring-text-main hover:bg-bg-dark2
 ">Email</a>
-        <a href="https://github.com/Basmala-hates-this" className="no-underline text-success
+        <a href="https://github.com/basmala-laouari" className="no-underline text-success
         hover:text-text-main
   transition-all px-6 py-4 rounded-md 
    translate-y-0 hover:translate-y-1

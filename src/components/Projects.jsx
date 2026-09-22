@@ -6,7 +6,7 @@ const projects = [
     blurb: 'A shared agenda/scheduling app.',
     tech: 'Java, Swing',
     status: null,
-    repo: 'https://github.com/Basmala-hates-this/agenda4',
+    repo: 'https://github.com/basmala-laouari/agenda4',
     
     images: [
     '/photos/projects/ag-wel.png',
@@ -38,7 +38,7 @@ const projects = [
     blurb: 'A client-server chat app, built to learn Java sockets.',
     tech: 'Java, Swing',
     status: 'Split across two repos (client + server).',
-    repo: 'https://github.com/Basmala-hates-this/RoomChat-Client',
+    repo: 'https://github.com/basmala-laouari/RoomChat-Client',
     images: [
     '/photos/projects/ro-ch.png',
     '/photos/projects/room-log.png',
@@ -56,7 +56,7 @@ const projects = [
     blurb: 'A photo album web app.',
     tech: 'jQuery, PHP, CSS',
     status: 'Database lost — no longer live, code preserved as reference.',
-    repo: 'https://github.com/Basmala-hates-this/Albume-recovery',
+    repo: 'https://github.com/basmala-laouari/Albume-recovery',
     images:[
     '/photos/projects/alb.png',
     '/photos/projects/hov.png',
@@ -77,7 +77,7 @@ const projects = [
     blurb: 'Displays a list of movies with links out to their IMDB search results.',
     tech: 'Node.js,HTML,CSS',
     status: null,
-    repo: 'https://github.com/Basmala-hates-this/film-gallery',
+    repo: 'https://github.com/basmala-laouari/film-gallery',
     image: '/photos/projects/movie.png',
 
   },
@@ -86,7 +86,7 @@ const projects = [
     blurb: 'Pulls dad jokes from an API.',
     tech: 'HTML, CSS, JS',
     status: 'First project I ever deployed (Netlify).',
-    repo: 'https://github.com/Basmala-hates-this/Back-With-The-Milk',
+    repo: 'https://github.com/basmala-laouari/Back-With-The-Milk',
     liveLink: "https://back-with-the-milk.netlify.app",
     image: '/photos/projects/bwtm.png',
   },
@@ -95,7 +95,7 @@ const projects = [
     blurb: 'A calculator built with Java RMI.',
     tech: 'Java, Swing',
     status: 'Terminal only, no interface was built.',
-    repo: 'https://github.com/Basmala-hates-this/RMIProject',
+    repo: 'https://github.com/basmala-laouari/RMIProject',
     images:[
         '/photos/projects/calc.png',
         '/photos/projects/serv-cal.png',
@@ -106,7 +106,7 @@ const projects = [
     blurb: 'Rotates frog-themed jokes and quotes — made for a friend.',
     tech: 'HTML, CSS, JS',
     status: 'Deployed on Netlify.',
-    repo: 'https://github.com/Basmala-hates-this/frog',
+    repo: 'https://github.com/basmala-laouari/frog',
     liveLink :"https://frogged.netlify.app",
     image: '/photos/projects/frog.png',
   },
